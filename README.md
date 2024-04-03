@@ -13,7 +13,7 @@ Do the same for all other color, and when you finish, your ingot is done.<br>
 If a result is negative (for example 100-150) write 0.<br>
 
 ## About the creator
-Hello, i'm Bl4ckdestinyXX, and i'm a misterious programmer.<br>
+Hello, i'm Bl4ckdestinyXX<br>
 I create random things.<br>
 I like Javascript and C++, and im about to learn java.<br>
 I hope you like this creation!<br>
